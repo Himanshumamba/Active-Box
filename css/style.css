@@ -352,9 +352,9 @@ button.btn.btn-danger {
 .carousel-caption p {
 
     letter-spacing: 1px;
-
-    padding-bottom: 2em;
-
+    
+    padding-bottom: 5em;
+    
     padding-top: 2em;
 
 }
@@ -842,10 +842,14 @@ div#testimon {
 .carousel-caption1 h3 {
 
     font-family: 'Open Sans' !important;
-
-    font-size: 23px;
-
+    
+    font-size: 35px;
+    
     font-weight: bold;
+    
+    text-transform: uppercase;
+    
+    line-height: 1.3;
 
 }
 
